@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdhaarVerification</string>
+    <string name="Verify_Aadhaar">Verify Aadhaar</string>
+    <string name="Save_Page">Save Page</string>
+</resources>
